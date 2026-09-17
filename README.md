@@ -279,7 +279,7 @@ Upload the screenshot inside the `images` folder with the filename:
 <img width="1257" height="617" alt="Screenshot 2026-09-17 202627" src="https://github.com/user-attachments/assets/09fc34c3-6bee-47f6-a047-99e3f7eb819c" />
 
 
-### 2. KDE of Shopify Daily Returns
+### 2. KDF of Shopify Daily Returns
 
 Upload the screenshot inside the `images` folder with the filename:
 
